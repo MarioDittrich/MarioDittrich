@@ -1815,3 +1815,9 @@ touch-action: auto;
 -ms-user-select: all;
 user-select: all;
 }
+
+
+
+
+-webkit-overflow-scrolling: touch;
+
