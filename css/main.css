@@ -1796,7 +1796,10 @@ input#img-6:checked ~ .nav-dots label#img-dot-6 {
 							
 							
 							
-							
+				.element {
+  position: sticky;
+  top: 0;
+}			
 							
 							
 							
