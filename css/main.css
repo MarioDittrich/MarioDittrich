@@ -31,7 +31,7 @@ body {
 	font-family: 'Ubuntu', 'Arial', sans-serif;
     line-height: 1.5;
     color: #ddd;
-	overflow: hidden;
+	overflow: scroll;
 }
 
 ol, ul {
