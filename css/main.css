@@ -31,7 +31,6 @@ body {
 	font-family: 'Ubuntu', 'Arial', sans-serif;
     line-height: 1.5;
     color: #ddd;
-	overflow: scroll;
 }
 
 ol, ul {
@@ -1762,7 +1761,4 @@ input#img-6:checked ~ .nav-dots label#img-dot-6 {
     background-image: url(../img/parallax/bicycle.jpg);
     padding: 70px 0;
 }		
-	
-
-
-	-webkit-overflow-scrolling: touch;
+							
