@@ -1637,8 +1637,8 @@ html, body { background: #333 url("https://codepen.io/images/classy_fabric.png")
 
 .slides {
     padding: 0;
-    width: 1209px;
-    height: 680px;
+    width: 809px;
+    height: 455px;
     display: block;
     margin: 0 auto;
     position: relative;
@@ -1660,8 +1660,8 @@ html, body { background: #333 url("https://codepen.io/images/classy_fabric.png")
 .slide {
     top: 0;
     opacity: 0;
-    width: 1209px;
-    height: 680px;
+    width: 809px;
+    height: 455px;
     display: block;
     position: absolute;
 
