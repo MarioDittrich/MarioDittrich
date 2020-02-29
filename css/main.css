@@ -1762,3 +1762,10 @@ input#img-6:checked ~ .nav-dots label#img-dot-6 {
     padding: 70px 0;
 }		
 							
+							
+							
+	html .page {
+    overflow: visible;
+}
+							
+							
