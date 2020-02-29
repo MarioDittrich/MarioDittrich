@@ -1762,4 +1762,7 @@ input#img-6:checked ~ .nav-dots label#img-dot-6 {
     background-image: url(../img/parallax/bicycle.jpg);
     padding: 70px 0;
 }		
-							
+	
+
+
+	-webkit-overflow-scrolling: touch;
