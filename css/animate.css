@@ -8,6 +8,9 @@ Copyright (c) 2013 Daniel Eden
 */
 
 
+html, body {
+    overflow: scroll;
+}
 
 
 .animated {
