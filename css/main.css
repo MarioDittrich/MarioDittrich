@@ -1234,7 +1234,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .blog-icon {
     border: 1px solid #0099ff;
-    border-radius: 50%;
+    border-radius: 80%;
     color: #0099ff;
     display: inline-block;
     padding: 16px 20px;
@@ -1245,16 +1245,18 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #blog-page {
-	margin: 0 0 40px;
+	margin: 0px 200px 40px;
 }
 
 .post-item .entry {
-	border: 1px solid #4e595f;
+	border: 2px solid #4e595f;
 	margin-bottom: 30px;
+	width: 130%;
 }
 
 .entry .post-excerpt {
-	padding: 0 20px;
+	padding:  20px;
+	
 }
 
 #gallery-post .owl-prev,
@@ -1262,7 +1264,7 @@ h1, h2, h3, h4, h5, h6 {
 #gallery-post .owl-next,
 #post-thumb .owl-next {
     padding: 5px 17px;
-    position: absolute;
+    position: abolute;
     top: 45%;
 
 	-webkit-transition: all .5s ease-in 0s;
@@ -1293,7 +1295,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #gallery-post,
 #post-thumb {
-    overflow-x: hidden;
+	width: 100%;
 }
 
 #post-thumb .owl-buttons {
@@ -1820,4 +1822,17 @@ user-select: all;
 
 
 -webkit-overflow-scrolling: touch;
+
+
+
+
+
+entry. post-excerpt .img-responsive2 {
+	float: left;
+}
+
+
+
+
+
 
